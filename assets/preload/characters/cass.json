@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CassIdle"
+		},
+		{
+			"offsets": [
+				15,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CassLeft"
+		},
+		{
+			"offsets": [
+				-45,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CassRight"
+		},
+		{
+			"offsets": [
+				1,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CassUp"
+		},
+		{
+			"offsets": [
+				-24,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CassDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-15
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "CassShoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "CassFuckYou"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cassandra",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "cass",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "Cass_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-97,
+				-17
+			],
+			"loop_offsets": [
+				-97,
+				-17
+			],
+			"anim": "talk",
+			"idle_name": "CassTalk",
+			"loop_name": "CassTalk"
+		},
+		{
+			"loop_name": "CassSmug",
+			"idle_offsets": [
+				-97,
+				-17
+			],
+			"idle_name": "CassSmug",
+			"anim": "smug",
+			"loop_offsets": [
+				-97,
+				-17
+			]
+		},
+		{
+			"loop_name": "CassAngy",
+			"idle_offsets": [
+				-97,
+				-17
+			],
+			"idle_name": "CassAngy",
+			"anim": "angy",
+			"loop_offsets": [
+				-97,
+				-17
+			]
+		}
+	]
+}

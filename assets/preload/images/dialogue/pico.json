@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-10,
+				-70
+			],
+			"idle_offsets": [
+				-10,
+				-70
+			],
+			"loop_name": "PicoTalk",
+			"idle_name": "PicoTalk"
+		}
+	],
+	"image": "Pico_Dialogue"
+}

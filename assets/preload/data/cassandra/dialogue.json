@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Where IS he?! Don't stop until you find him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wha- Who the fuck are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beepy boppy boo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? No, I'm not her sister, the fuck are you on about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "Wait, what am I even doing? Get outta here! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beepo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're... looking for someone? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Heh... Why didn't you lead with that? We should know who else is around."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Where did he say he was?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bapo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You... want to sing it to me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Kinda weird, but sure, lay it on me."
+		}
+	]
+}

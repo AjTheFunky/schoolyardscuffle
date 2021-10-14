@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CassAlien.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CassDown0000" x="0" y="0" width="1740" height="1298"/>
+	<SubTexture name="CassDown0001" x="1740" y="0" width="1740" height="1298"/>
+	<SubTexture name="CassDown0002" x="3480" y="0" width="1740" height="1298"/>
+	<SubTexture name="CassDown0003" x="5220" y="0" width="1740" height="1298"/>
+	<SubTexture name="CassIdle0000" x="0" y="1298" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0001" x="1728" y="1298" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0002" x="3456" y="1298" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0003" x="5184" y="1298" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0004" x="0" y="2598" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0005" x="1728" y="2598" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0006" x="3456" y="2598" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0007" x="5184" y="2598" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0008" x="0" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0009" x="1728" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0010" x="3456" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0011" x="5184" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0012" x="0" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassIdle0013" x="1728" y="3898" width="1728" height="1300"/>
+	<SubTexture name="CassLeft0000" x="0" y="5198" width="1493" height="1391"/>
+	<SubTexture name="CassLeft0001" x="1493" y="5198" width="1493" height="1391"/>
+	<SubTexture name="CassLeft0002" x="2986" y="5198" width="1493" height="1391"/>
+	<SubTexture name="CassLeft0003" x="4479" y="5198" width="1493" height="1391"/>
+	<SubTexture name="CassRight0000" x="5972" y="5198" width="1464" height="1382"/>
+	<SubTexture name="CassRight0001" x="0" y="6589" width="1464" height="1382"/>
+	<SubTexture name="CassRight0002" x="1464" y="6589" width="1464" height="1382"/>
+	<SubTexture name="CassRight0003" x="2928" y="6589" width="1464" height="1382"/>
+	<SubTexture name="CassUp0000" x="4392" y="6589" width="1477" height="1336"/>
+	<SubTexture name="CassUp0001" x="5869" y="6589" width="1477" height="1336"/>
+</TextureAtlas>

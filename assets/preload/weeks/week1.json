@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Cassandra",
+			"cass",
+			[
+				152,
+				0,
+				0
+			]
+		],
+		[
+			"Show-Off",
+			"cass",
+			[
+				152,
+				0,
+				0
+			]
+		],
+		[
+			"Fuck-Love",
+			"cass",
+			[
+				152,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"cass",
+		"bf",
+		"gf"
+	],
+	"storyName": "School's in session",
+	"weekName": "Week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

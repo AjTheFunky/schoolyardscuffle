@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CassLeft"
+		},
+		{
+			"offsets": [
+				-338,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CassRight"
+		},
+		{
+			"offsets": [
+				-121,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CassUp"
+		},
+		{
+			"offsets": [
+				-4,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CassDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "CassIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CassAlien",
+	"position": [
+		-680,
+		-470
+	],
+	"healthicon": "cassalien",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		0,
+		0
+	],
+	"camera_position": [
+		220,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

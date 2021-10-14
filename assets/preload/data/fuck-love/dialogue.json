@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "God DAMN IT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "That's it! I'm ending this fuckery right here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She takes aim."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A gunshot is heard."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ayo, what the fuck?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "You two are with PRICO?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's right."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go on you two, leave this to me. This is my battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bebop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah, we didn't get permission to use that song. Just get outta here already!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cassandra, You know this isn't right!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Remember what they said in all of our assemblies during school?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That \"love conquers all.\""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Love?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "LOVE?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "This planet doesn't HAVE love! Nobody cares about anyone else, you want to talk about LOVE?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This planet's fucked."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welp... I've beaten your ass before, it wouldn't be hard to do it again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cass",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Bring it on, Prico!"
+		}
+	]
+}
